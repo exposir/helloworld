@@ -1,5 +1,24 @@
-## Welcome to GitHub Pages
+# menglingyu
 
-You can use the [editor on GitHub](https://github.com/exposir/meng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Project setup
+```
+npm install
+```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
